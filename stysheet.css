@@ -23,14 +23,12 @@ a:hover {
 
 .console {
   
-  margin-top: auto;
-  margin-bottom: auto;
   font-size: 40px;
   width: 90%;
   height: 20%;
   background: #282828;
   border-radius: 10px;
-  margin-top: 2rem;
+  margin-top: 20rem;
   box-shadow: 0px 0px 50px 1px rgba(238, 255, 0, 0.575);
 }
 
