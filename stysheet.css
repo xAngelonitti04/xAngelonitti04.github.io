@@ -19,7 +19,9 @@ a:hover {
 }
 
 .console {
-  width: 100%;
+  
+  font-size: 40px;
+  width: 90%;
   height: 20%;
   background: #282828;
   border-radius: 10px;
